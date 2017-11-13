@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Morfix translation by Zilag V1.0",
+  "description": "Mark a text and translate with morfix",
+  "version": "1.0",
+    "permissions": ["contextMenus","tabs"],
+  "background": {
+    "scripts": ["script.js"]
+  }
+
+ 
+}
